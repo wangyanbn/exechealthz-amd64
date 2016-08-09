@@ -1,4 +1,4 @@
-#mirror from  gcr.io/google_containers/kube-dnsmasq-amd64:1.3
+#mirror from  gcr.io/google_containers/exechealthz-amd64:1.1
 
-FROM gcr.io/google_containers/kube-dnsmasq-amd64:1.3
+FROM gcr.io/google_containers/exechealthz-amd64:1.1
 MAINTAINER wangyanbin@dayang.com.cn
